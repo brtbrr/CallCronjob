@@ -1,0 +1,11 @@
+{
+  "mlflow_model": "*********",
+  "conn": "",
+  "dryrun": 0,
+  "target_table": "*********",
+  "batch_size": 32,
+  "max_length": 300,
+  "tokenizer_path": "*********",
+  "layer": "Staging",
+  "thresholds": [*****, *****, .... *****, *****]
+}
